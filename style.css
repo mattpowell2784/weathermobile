@@ -79,6 +79,7 @@ body {
 }
 
 .row {
+  background-color: rgb(48, 126, 241);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;

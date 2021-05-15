@@ -9,5 +9,7 @@ git status
 git reset --hard HEAD
 git reset --hard f6huykkjh7676kkjkkh8hgh78tihyutfg5ggfur5gvd4
 git log
+git branch
 git branch branch_name
 git checkout new-feature
+git push origin master
