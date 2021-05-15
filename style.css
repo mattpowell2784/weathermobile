@@ -30,6 +30,7 @@ body {
   background-size: cover;
   background-position: top;
   position: relative;
+  background-color: rgb(85, 190, 252);
 }
 
 .main {
@@ -77,7 +78,6 @@ body {
 }
 
 .row {
-  background-color: rgb(85, 190, 252);
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -88,7 +88,7 @@ body {
 }
 
 [class$='col'] {
-  background-color: rgba(241, 241, 247, 0.185);
+  background-color: rgba(85, 190, 252, 0.8);
   width: 100%;
   padding: 0.5rem;
   min-width: 12rem;
