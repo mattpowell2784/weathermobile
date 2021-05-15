@@ -4,6 +4,7 @@ https://api.openweathermap.org/data/2.5/onecall?lat={lat}&lon={lon}&exclude={par
 
 git init
 git add -A
+git commit -m version_name
 git status
 git reset --hard HEAD
 git reset --hard f6huykkjh7676kkjkkh8hgh78tihyutfg5ggfur5gvd4
