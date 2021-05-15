@@ -79,6 +79,13 @@ body {
 }
 
 .row {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(0, 162, 255, 0.5),
+      rgba(0, 162, 255, 0.9)
+    ),
+    url(img/clouds.jpg);
+  background-size: cover;
   background-color: rgb(48, 126, 241);
   display: flex;
   flex-wrap: wrap;
